@@ -11,3 +11,4 @@ line10
 updating the commit1 for main branch
 
 updating the commit1 for devoloper branch
+updating the commit2 for devoloper branch
